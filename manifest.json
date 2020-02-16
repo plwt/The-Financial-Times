@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "The Financial Times",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(252, 208, 177)",
+      "toolbar_text": "rgb(0, 0, 0)",
+      "frame": "rgb(252, 208, 177)",
+      "tab_background_text": "rgb(0, 0, 0)",
+      "toolbar_field": "rgb(252, 208, 177)",
+      "toolbar_field_text": "rgb(0, 0, 0)",
+      "toolbar_field_border": "rgb(0, 0, 0)",
+      "toolbar_field_border_focus": "rgb(0, 0, 0)",
+      "ntp_background": "rgb(252, 208, 177)",
+      "ntp_text": "rgb(0, 0, 0",
+      "tab_line": "rgb(0, 0, 0)",
+      "popup": "rgb(252, 208, 177)",
+      "popup_text": "rgb(0, 0, 0)",
+      "popup_highlight": "rgb(0, 0, 0)",
+      "popup_highlight_text": "rgb(252, 208, 177)",
+      "tab_loading": "rgb(252, 208, 177)",
+      "tab_background_seperator": "rgb(0, 0, 0)",
+      "sidebar": "rgb(252, 208, 177)",
+      "sidebar_highlight": "rgb(0, 0, 0)",
+      "sidebar_hightlight_text": "rgb(252, 208, 177)"
+    }
+  }
+}
